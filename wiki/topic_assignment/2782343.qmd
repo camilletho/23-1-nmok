@@ -11,3 +11,10 @@ categories:
 Remove all topics except for your preferred topic for the wiki project:
 
 - Digital Healthcare
+
+Innovations in healthcare and wellbeing: A focus on actors and collaborations at the boundaries
+Corinne Grenier, Bertrand Pauget, Hervé Hudebine
+In Journal of Innovation Economics & Management Volume 30, Issue 3, 2019, pages 1 to 15
+https://www.cairn-int.info/journal-of-innovation-economics-2019-3-page-1.htm 
+
+"The papers published in this issue provide an understanding of the complexity of innovation processes, which play out at multiple levels (individuals, collectives, and public agencies)"
